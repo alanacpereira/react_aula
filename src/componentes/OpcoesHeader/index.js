@@ -1,4 +1,4 @@
-
+import './estilo.css'
 const textoOpocoes = ['CATEGORIAS', 'FAVORITOS','MINHA ESTANTE'];
 
 function OpcoesHeader() {
